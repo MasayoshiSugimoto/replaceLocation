@@ -1,0 +1,35 @@
+<SimpleTag/>
+<StartEndTag>
+</StartEndTag>
+<StartEndTag>
+	<SimpleTag/>
+	<StartEndTag>
+	</StartEndTag>
+	<Location /url1>
+		<SimpleTag/>
+		<StartEndTag>
+		</StartEndTag>
+	</Location>
+	<SimpleTag/>
+	<StartEndTag>
+	</StartEndTag>
+	<Location /url2>
+		<SimpleTag/>
+		<StartEndTag>
+		</StartEndTag>
+	</Location>
+	<SimpleTag/>
+	<StartEndTag>
+	</StartEndTag>
+	<Location /url3>
+		<SimpleTag/>
+		<StartEndTag>
+		</StartEndTag>
+	</Location>
+	<SimpleTag/>
+	<StartEndTag>
+	</StartEndTag>
+</StartEndTag>
+<SimpleTag/>
+<StartEndTag>
+</StartEndTag>
